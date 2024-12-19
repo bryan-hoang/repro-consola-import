@@ -1,0 +1,13 @@
+{
+	"name": "repro-consola-import",
+	"scripts": {
+		"repro": "tsc --noEmit"
+	},
+	"dependencies": {
+		"consola": "3.2.3"
+	},
+	"devDependencies": {
+		"@types/node": "22.10.2",
+		"typescript": "5.7.2"
+	}
+}
